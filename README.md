@@ -10,8 +10,5 @@ Mojito comprises of two main modules.
 Mojito platform will first be available on apple store. We also aim for polished UX/UI on top of audited smart contracts. 
 To learn more about this project, please visit the Origin website and download our whitepaper.
 
-# Live Demo
-<img src="https://imgur.com/RB406Ia"/>
-
 # Stay Tuned
 We're still in the super early stages, join our telegram group for future updates.

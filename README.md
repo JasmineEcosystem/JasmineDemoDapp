@@ -11,6 +11,7 @@ Mojito platform will first be available on apple store. We also aim for polished
 To learn more about this project, please visit the Origin website and download our whitepaper.
 
 # Live Demo
-<blockquote class="imgur-embed-pub" lang="en" data-id="RB406Ia"><a href="//imgur.com/RB406Ia"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur Image](https://imgur.com/RB406Ia)
+
 # Stay Tuned
 We're still in the super early stages, join our telegram group for future updates.
